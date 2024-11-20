@@ -4,4 +4,4 @@
 <img src="https://github.com/user-attachments/assets/540a917b-9472-4ba1-b079-d991dda49737" height="400" width="200"/>
 <img src="https://github.com/user-attachments/assets/beb02b20-ca2c-4e46-b730-e0fc798213f1" height="400" width="200"/>
 <img src="https://github.com/user-attachments/assets/c1c54ead-f911-4ace-9463-8ee8390e9c34" height="400" width="200"/>
-<img src="https://github.com/user-attachments/assets/d41a7d80-0118-49c3-bcf9-669868f53ff2" height="400" width="100"/>
+<img src="https://github.com/user-attachments/assets/d41a7d80-0118-49c3-bcf9-669868f53ff2" height="400" width="200"/>
